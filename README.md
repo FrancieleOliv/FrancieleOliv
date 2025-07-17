@@ -1,6 +1,6 @@
 # 👩‍💻 Franciele de Oliveira
 
-**Desenvolvedora Back-End em formação**
+**Desenvolvedora Back-End em formação | Mãe | Estudante | Apaixonada por tecnologia**
 
 Bem-vinda(o) ao meu GitHub! Aqui compartilho meus projetos e aprendizados na jornada de transição de carreira para o desenvolvimento Back-End. 🌱
 
@@ -30,7 +30,7 @@ Um projeto com foco em apoiar e conectar mães que estão estudando e buscando u
 
 ---
 ## 🛠️ Tecnologias que estou aprendendo
-💻 **Linguagens & Frameworks**
+### 💻 Linguagens e Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -41,7 +41,7 @@ Um projeto com foco em apoiar e conectar mães que estão estudando e buscando u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" width="40" alt="Salesforce"/>
 </p>
 
-⚙️ **DevOps & Ferramentas**
+### ⚙️ DevOps & Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -58,4 +58,7 @@ Um projeto com foco em apoiar e conectar mães que estão estudando e buscando u
 
 💬 “O sucesso é a soma de pequenos esforços repetidos dia após dia.”  
 > — *Robert Collier*
+
+✨ Construindo uma nova história com propósito e tecnologia.  
+🚀 Vamos juntos transformar o futuro!
 
