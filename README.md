@@ -1,6 +1,6 @@
 # 👩‍💻 Franciele de Oliveira
 
-**Desenvolvedora Back-End em formação | Mãe | Estudante | Apaixonada por tecnologia**
+**Desenvolvedora Back-End em formação | Mamãe | Estudante | Apaixonada por tecnologia**
 
 Bem-vinda(o) ao meu GitHub! Aqui compartilho meus projetos e aprendizados na jornada de transição de carreira para o desenvolvimento Back-End. 🌱
 
@@ -14,7 +14,7 @@ Bem-vinda(o) ao meu GitHub! Aqui compartilho meus projetos e aprendizados na jor
 - 🌎 Apaixonada por tecnologia e inovação  
 - 🧠 Interesse por Back-End, Salesforce, Java, Lógica e Inteligência Artificial  
 - 📍 Moro em Sorocaba/SP  
-- 👩‍👧 Mãe da Hadassa  
+- 👩‍👧 Mamãe da Hadassa  
 - 💍 Casada com André  
 - 🐾 Pets: Totó e Cacau  
 
