@@ -1,52 +1,75 @@
 # 👩‍💻 Franciele de Oliveira
 
-**Desenvolvedora Back-End em formação | Mamãe | Estudante | Apaixonada por tecnologia**
+**QA em formação | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Bem-vinda(o) ao meu GitHub! Aqui compartilho meus projetos e aprendizados na jornada de transição de carreira para o desenvolvimento Back-End. 🌱
+Bem-vindo(a) ao meu GitHub! Aqui compartilho projetos e aprendizados da minha jornada de transição de carreira para a área de tecnologia, com foco em Qualidade de Software e Análise de Sistemas.
 
 ---
 
 ## 🎯 Sobre mim
 
-- 💻 Desenvolvedora em formação  
-- 🔁 Transição de carreira após 10 anos na área Financeira  
-- 📚 Estudando Análise e Desenvolvimento de Sistemas  
-- 🌎 Apaixonada por tecnologia e inovação  
-- 🧠 Interesse por Back-End, Salesforce, Java, Lógica e Inteligência Artificial  
-- 📍 Moro em Sorocaba/SP  
-- 👩‍👧 Mamãe da Hadassa  
-- 💍 Casada com André  
-- 🐾 Pets: Totó e Cacau  
+💻 Profissional em transição para a área de tecnologia  
+🔁 10 anos de experiência na área financeira  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
+🧠 Interesse em Qualidade de Software (QA), lógica de programação e análise de sistemas  
+🌎 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas  
+📍 Sorocaba / SP  
 
 ---
 
-## 💡 Projeto em destaque
+## 🔎 Interesse em Qualidade de Software
 
-🎓 **Projeto: Mães Estudantes**
+Tenho grande interesse em compreender como sistemas funcionam, identificar possíveis falhas e contribuir para a melhoria contínua da qualidade das aplicações.
 
-Um projeto com foco em apoiar e conectar mães que estão estudando e buscando uma nova carreira em tecnologia. A proposta é oferecer suporte, dicas de organização e oportunidades de capacitação, especialmente para quem também está conciliando maternidade com a vida acadêmica.
+Atualmente estou estudando fundamentos de testes de software e construindo um portfólio com exemplos de:
 
-🌱 *Em desenvolvimento — em breve disponível no meu GitHub!*
+- Casos de teste
+- Análise de funcionalidades
+- Cenários de teste
+- Estratégias de validação de sistemas
 
 ---
+
+## 💻 Projetos
+
+### 🧪 Portfólio de Testes de Software
+Repositórios dedicados a estudos e práticas de QA, incluindo documentação de testes, análise de funcionalidades e simulação de cenários de teste.
+
+🚧 Em construção.
+
+---
+
+### 📊 Sistema de Controle de Hábitos (Java)
+
+Projeto desenvolvido como parte do Projeto Integrador do SENAC.
+
+A proposta é criar um sistema de acompanhamento de hábitos e organização de rotina, aplicando conceitos de lógica de programação e desenvolvimento em Java.
+
+🚧 Em desenvolvimento.
+
+---
+
+### 🌱 Estudo de HTML e CSS
+
+Projeto inicial criado para praticar fundamentos de desenvolvimento web. A proposta envolve ideias relacionadas à organização de rotina e apoio a mães estudantes.
+
+🚧 Projeto em evolução.
+
+---
+
 ## 🛠️ Tecnologias que estou aprendendo
-### 💻 Linguagens e Frameworks
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-plain.svg" width="40" alt="Salesforce"/>
-</p>
+**Linguagens**
 
-### ⚙️ DevOps & Ferramentas
+Java • JavaScript • HTML5 • CSS3 • MySQL  
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
+**Plataformas**
+
+Salesforce  
+
+**Ferramentas**
+
+Git • GitHub  
 
 ---
 
@@ -59,6 +82,4 @@ Um projeto com foco em apoiar e conectar mães que estão estudando e buscando u
 💬 “O sucesso é a soma de pequenos esforços repetidos dia após dia.”  
 > — *Robert Collier*
 
-✨ Construindo uma nova história com propósito e tecnologia.  
-🚀 Vamos juntos transformar o futuro!
-
+🚀 Construindo uma nova história com propósito e tecnologia.  
