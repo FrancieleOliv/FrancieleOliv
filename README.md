@@ -2,74 +2,39 @@
 
 **QA em formação | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Bem-vindo(a) ao meu GitHub! Aqui compartilho projetos e aprendizados da minha jornada de transição de carreira para a área de tecnologia, com foco em Qualidade de Software e Análise de Sistemas.
+Bem-vindo(a) ao meu GitHub!
+
+Aqui compartilho minha evolução na área de Qualidade de Software (QA), com projetos práticos, estudos e documentação de testes.
 
 ---
 
 ## 🎯 Sobre mim
 
-💻 Profissional em transição para a área de tecnologia  
-🔁 10 anos de experiência na área financeira  
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-🧠 Interesse em Qualidade de Software (QA), lógica de programação e análise de sistemas  
-🌎 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas  
-📍 Sorocaba / SP  
+Estou em transição para a área de Qualidade de Software (QA), com foco em testes manuais e construção de uma base sólida em testes.
+
+Tenho 10 anos de experiência na área administrativa/financeira, onde desenvolvi habilidades como atenção aos detalhes, organização e análise — competências que aplico diretamente na área de QA.
+
+Atualmente estudo fundamentos de testes de software e pratico a criação de cenários, casos de teste e documentação de bugs.
 
 ---
 
-## 🔎 Interesse em Qualidade de Software
+## 🧪 Portfólio de QA
 
-Tenho grande interesse em compreender como sistemas funcionam, identificar possíveis falhas e contribuir para a melhoria contínua da qualidade das aplicações.
-
-Atualmente estou estudando fundamentos de testes de software e construindo um portfólio com exemplos de:
+Estou desenvolvendo projetos práticos com foco em:
 
 - Casos de teste
-- Análise de funcionalidades
 - Cenários de teste
-- Estratégias de validação de sistemas
+- Testes exploratórios
+- Documentação de bugs
+
+🚧 Em construção — atualizações frequentes
 
 ---
 
-## 💻 Projetos
-
-### 🧪 Portfólio de Testes de Software
-Repositórios dedicados a estudos e práticas de QA, incluindo documentação de testes, análise de funcionalidades e simulação de cenários de teste.
-
-🚧 Em construção.
-
----
-
-### 📊 Sistema de Controle de Hábitos (Java)
-
-Projeto desenvolvido como parte do Projeto Integrador do SENAC.
-
-A proposta é criar um sistema de acompanhamento de hábitos e organização de rotina, aplicando conceitos de lógica de programação e desenvolvimento em Java.
-
-🚧 Em desenvolvimento.
-
----
-
-### 🌱 Estudo de HTML e CSS
-
-Projeto inicial criado para praticar fundamentos de desenvolvimento web. A proposta envolve ideias relacionadas à organização de rotina e apoio a mães estudantes.
-
-🚧 Projeto em evolução.
-
----
-
-## 🛠️ Tecnologias que estou aprendendo
-
-**Linguagens**
-
-Java • JavaScript • HTML5 • CSS3 • MySQL  
-
-**Plataformas**
-
-Salesforce  
-
-**Ferramentas**
-
-Git • GitHub  
+## 🛠️ Ferramentas e conhecimentos
+- Fundamentos de QA (testes funcionais, regressão, exploratório)
+- Jira (básico)
+- Git e GitHub
 
 ---
 
@@ -79,7 +44,4 @@ Git • GitHub
 
 ---
 
-💬 “O sucesso é a soma de pequenos esforços repetidos dia após dia.”  
-> — *Robert Collier*
-
-🚀 Construindo uma nova história com propósito e tecnologia.  
+💬 “Antes de confiar, eu testo.”
